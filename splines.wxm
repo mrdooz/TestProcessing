@@ -1,0 +1,89 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 0.8.5 ] */
+
+/* [wxMaxima: input   start ] */
+diff(0.5*((2*p1)+(-p0+p2)*s+(2*p0-5*p1+4*p2-p3)*s^2+(-p0+3*p1-3*p2+p3)*s^3),s,1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x = 0.5*((2*p1)+(-p0+p2)*s+(2*p0-5*p1+4*p2-p3)*s^2+(-p0+3*p1-3*p2+p3)*s^3);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(x, s, 1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x:0.5*((p3-3*p2+3*p1-p0)*s^3+(-p3+4*p2-5*p1+2*p0)*s^2+(p2-p0)*s+2*p1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(x, s, 1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(x, s, 1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff((x-x0)^2, s, 2);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff((x-x0)^2, s, 2);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+x;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff((x-x0)^2, s, 1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+(x-x0)^2;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+a:(x-x0)^2;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(a, s, 1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(a, s, 1);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(a, s, 2);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+diff(x, s, 1);
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
