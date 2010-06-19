@@ -1,5 +1,5 @@
 Test Processing
 
-I recently decided to check out the [processing library](http://processing.org/), and found that it was pretty much exactly what I had been looking for. So far I've resisted the urge to try to make a C# (or C++/DirectX) version.
+I recently decided to check out the http://processing.org/, and found that it was pretty much exactly what I had been looking for. So far I've resisted the urge to try to make a C# (or C++/DirectX) version.
 
 I've been playing around, implementing some steering behavoir stuff.
